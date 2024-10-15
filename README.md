@@ -1,2 +1,3 @@
-# book_bot_01
-boots.dev chapter
+Restarting learning boots.dev
+boots.dev chapter 5?
+time to make that book-bot
